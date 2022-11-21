@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 21 15:42:54 EST 2022
+Thisworksmango-3.10-SNAPSHOT-cyclonedx.json>=
+Thisworksmango-3.10-SNAPSHOT.jar>=
+Thisworksmango-3.10-SNAPSHOT.pom>=

@@ -1,0 +1,7 @@
+organization=diederik166
+projectKey=diederik166_FinalMango
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.34856
+dashboardUrl=https://sonarcloud.io/dashboard?id=diederik166_FinalMango
+ceTaskId=AYSb-4PX50B9e93Ylk_A
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYSb-4PX50B9e93Ylk_A

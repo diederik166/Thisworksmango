@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.sonarsource.scanner.maven</groupId>
+  <artifactId>Thisworksmango</artifactId>
+  <versioning>
+    <lastUpdated>20221121204235</lastUpdated>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>cyclonedx</classifier>
+        <extension>json</extension>
+        <value>3.10-SNAPSHOT</value>
+        <updated>20221121204235</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>3.10-SNAPSHOT</value>
+        <updated>20221121204235</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.10-SNAPSHOT</value>
+        <updated>20221121204235</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>3.10-SNAPSHOT</version>
+</metadata>
